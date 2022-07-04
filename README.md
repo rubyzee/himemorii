@@ -30,6 +30,6 @@ int main ()
 
 ---
 
-![Metrics](/github-metrics.svg)
+![Himemorii GitHub stats](https://github-readme-stats.vercel.app/api?username=himemorii&show_icons=true&theme=graywhite)
 
 ---
